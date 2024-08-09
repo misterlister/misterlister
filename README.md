@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on improving the UI of my game "Fantactics"
+- 🔭 I’m currently working on a pokemon-inspired RPG
 - 🌱 I’m currently learning Go and javaScript
 - 💬 Ask me about games, music, painting, D&D
 - 📫 How to reach me: haydenglister@gmail.com
