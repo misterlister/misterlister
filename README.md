@@ -1,7 +1,7 @@
 ### Hi there!
 
 - I’m currently building a medieval dark fantasy pokemon-inspired RPG
-- I’m currently learning Kotlin, developing a medical data-entry mobile app
+- I’m currently learning more about observability systems
 - Ask me about games, music, painting, D&D
 - How to reach me: haydenglister@gmail.com
 - Fun fact: I'm also in a progressive rock band called Cosmosaurus: 
